@@ -1,0 +1,8 @@
+taskDevice.c:53:7:TaskInputThread	48	static
+taskDevice.c:87:6:ResetJigIoPin	8	static
+taskDevice.c:112:6:ResetADCData	0	static
+taskDevice.c:124:10:CalculateAverageForAdc	0	static
+taskDevice.c:143:10:ChangeAdc1Channel	24	static
+taskDevice.c:161:6:TaskAdc1Thread	32	static
+taskDevice.c:238:10:CheckKeyLed	8	static
+taskDevice.c:258:10:GetKeyLedValue	12	static
